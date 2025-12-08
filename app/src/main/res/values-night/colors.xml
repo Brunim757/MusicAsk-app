@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#6C63FF</color>
+    <color name="primary_dark">#5A52D9</color>
+    <color name="primary_light">#8F88FF</color>
+    <color name="secondary">#FF6B6B</color>
+
+    <color name="background">#121212</color>
+    <color name="surface">#1E1E1E</color>
+    <color name="surface_variant">#2D2D2D</color>
+
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B3B3B3</color>
+    <color name="text_hint">#666666</color>
+    <color name="divider">#333333</color>
+
+    <color name="status_pending">#FFA726</color>
+    <color name="status_pending_bg">#2D2618</color>
+    <color name="status_accepted">#66BB6A</color>
+    <color name="status_accepted_bg">#1E2D1E</color>
+    <color name="status_rejected">#EF5350</color>
+    <color name="status_rejected_bg">#2D1E1E</color>
+    <color name="status_later">#42A5F5</color>
+    <color name="status_later_bg">#1E252D</color>
+    <color name="status_played">#AB47BC</color>
+    <color name="status_played_bg">#251E2D</color>
+</resources>

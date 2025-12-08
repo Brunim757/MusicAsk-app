@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">MusicAsk</string>
+    <string name="title_main">MusicAsk</string>
+    <string name="subtitle_main">Sistema de Pedidos de Música</string>
+
+    <string name="no_event_title">Nenhum evento ativo</string>
+    <string name="no_event_message">Inicie um novo evento para\nreceber pedidos de música</string>
+    <string name="btn_start_event">Iniciar Evento</string>
+    <string name="btn_view_history">Ver Histórico</string>
+    <string name="btn_view_requests">Ver Pedidos</string>
+    <string name="btn_end_event">Encerrar Evento</string>
+
+    <string name="dialog_create_event_title">Iniciar Novo Evento</string>
+    <string name="dialog_end_event_title">Encerrar Evento</string>
+    <string name="dialog_end_event_message">Tem certeza que deseja encerrar o evento atual? Novos pedidos não serão mais aceitos.</string>
+    <string name="dialog_settings_title">Configurações</string>
+
+    <string name="hint_event_name">Nome do evento (opcional)</string>
+    <string name="hint_server_url">URL do Servidor</string>
+
+    <string name="btn_accept">Tenho e vou tocar</string>
+    <string name="btn_reject">Não tenho</string>
+    <string name="btn_later">Mais Tarde</string>
+    <string name="btn_later_5_15">5-15 minutos</string>
+    <string name="btn_later_15_30">15-30 minutos</string>
+    <string name="btn_later_30_plus">30+ minutos</string>
+
+    <string name="filter_all">Todos</string>
+    <string name="filter_pending">Pendentes</string>
+    <string name="filter_accepted">Aceitos</string>
+    <string name="filter_later">Mais tarde</string>
+    <string name="filter_rejected">Não disponível</string>
+
+    <string name="status_pending">Aguardando</string>
+    <string name="status_accepted">Programada para tocar</string>
+    <string name="status_rejected">Não disponível</string>
+    <string name="status_later_5_15">Mais tarde (5-15 min)</string>
+    <string name="status_later_15_30">Mais tarde (15-30 min)</string>
+    <string name="status_later_30_plus">Mais tarde (30+ min)</string>
+    <string name="status_played">Tocada</string>
+
+    <string name="empty_requests">Nenhum pedido ainda.\nAguardando pedidos...</string>
+    <string name="empty_history">Nenhum evento no histórico</string>
+
+    <string name="error_connection">Erro de conexão</string>
+    <string name="error_loading">Erro ao carregar dados</string>
+    <string name="syncing">Sincronizando...</string>
+
+    <string name="cancel">Cancelar</string>
+    <string name="save">Salvar</string>
+    <string name="start">Iniciar</string>
+    <string name="end">Encerrar</string>
+</resources>
